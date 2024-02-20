@@ -77,7 +77,7 @@ export default function Intro() {
             active:scale-105 transition">
                 Contactez-moi ici <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition"/>
             </Link>
-            <a className=" group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer border border-black/10" href="/CV_javourez_arthur_developpeur_web.pdf" download>
+            <a className=" group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer border border-black/10" href="/CV_developpement_web_javourez_arthur.pdf" download>
                 Téléchargez mon CV <HiDownload className="opacity-60 group-hover:translate-y-1 transition"/> 
             </a>
             <a className="bg-white text-gray-700 p-4 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer border border-black/10" href="https://www.linkedin.com/in/arthur-javourez-2923321b7/" target="_blank"> <BsLinkedin/></a>
